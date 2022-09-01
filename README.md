@@ -50,7 +50,7 @@
 <img src="/anh/haha.jpg"><br>
   
 <p><a href="http://bighopes.info/ " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
-<p><a href="https://gitlab.com/cece88/cecerty/-/raw/main/9chuchanngon.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/请点击按钮领取平安符-9cf?logoWidth=1" title="请点击按钮领取平安符 " alt="请点击按钮领取平安符 "></a></p>  
+
 
 <img src="/anh/haha.jpg"><br>
 <p><a href="https://gitlab.com/cece88/cecerty/-/raw/main/9chuchanngon.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/请点击按钮领取平安符-9cf?logoWidth=1" title="请点击按钮领取平安符 " alt="请点击按钮领取平安符 "></a></p>    
